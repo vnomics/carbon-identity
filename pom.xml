@@ -757,7 +757,7 @@
             </dependency>
             <dependency>
                 <groupId>com.google.apis</groupId>
-                <artifactId>google-api-services-admin</artifactId>
+                <artifactId>google-api-services-admin-directory</artifactId>
                 <version>${com.google.service.api.version}</version>
             </dependency>
             <dependency>
